@@ -1,0 +1,8 @@
+setup.py
+hasyim12.egg-info/PKG-INFO
+hasyim12.egg-info/SOURCES.txt
+hasyim12.egg-info/dependency_links.txt
+hasyim12.egg-info/top_level.txt
+hasyim_12/__init__.py
+hasyim_12/guess_number.py
+hasyim_12/weight_conversion.py
